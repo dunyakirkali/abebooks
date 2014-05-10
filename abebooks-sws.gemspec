@@ -3,7 +3,7 @@ $:.push File.expand_path('../lib', __FILE__)
 require 'abebooks/version'
 
 Gem::Specification.new do |gem|
-  gem.name        = 'abebooks'
+  gem.name        = 'abebooks-sws'
   gem.version     = Abebooks::VERSION
   gem.platform    = Gem::Platform::RUBY
   gem.authors     = ['Diego Marquez']
